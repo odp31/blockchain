@@ -1,0 +1,5 @@
+BLOCKCHAIN
+- technology was invented in 2008 by Satoshi Nakamoto
+- original purpose was to serve as the distributed, digital, public transaction ledger of the cryptocurrency Bitcoin to solve the double-spending problem
+- a chain of blocks each of which contains some information- data
+- after a blockchain is forme,d it must be balidated 
